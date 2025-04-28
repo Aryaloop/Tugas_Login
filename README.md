@@ -16,7 +16,7 @@ Dokumentasi kebutuhan fungsional untuk fitur **Login** dan **Logout**.
 | 5  | Sistem menampilkan form verifikasi yang dikirimkan ke _email user_                                      |            | ✓        |
 | 6  | _User_ menginputkan kode verifikasi                                                                    | ✓          |          |
 | 7  | Sistem menyimpan data _user_ ke dalam _database customer_ dan sistem menampilkan halaman _login_ pada _website_ |            | ✓        |
-| 8  | _User_ dapat memilih _cancel_                                                                           | ✓          |          |
+| 8  | _User_ dapat memilih _cancel_                                                                           |         |            |
 | 9  | Sistem dapat menampilkan halaman utama _website_                                                       |            | ✓        |
 
 ---
